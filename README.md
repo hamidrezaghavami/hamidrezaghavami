@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Hamid 👋
 
 I'm a **Computer Engineering student** currently based in Istanbul, Turkey, passionate about **Backend Development** and **JavaScript**.  
