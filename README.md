@@ -14,9 +14,8 @@ I’m on a journey to master **Node.js, PostgreSQL**, and **building scalable ba
 ---
 
 ## 💻 Skills
-- **Languages:** JavaScript, C++ (learning backend in JS)
-- **Technologies:** Node.js, Express, Git, GitHub
-- **Concepts:** OOP, DSA, Algorithms, Database basics
+- **Languages:** JavaScript (learning backend in JS)
+- **Technologies:** Node.js, Express.js, Git, GitHub, passport.js
 
 ---
 
