@@ -1,7 +1,7 @@
 # Hi, I'm Hamid 👋
 
 ## 👨‍💻 About Me
-- 🎓 Computer Engineering student at [Altinbas University], based in Istanbul, Turkey
+- 🎓 Computer Engineering student at Altinbas University, based in Istanbul, Turkey
 - 💻 Backend developer specializing in Node.js, Express.js, and PostgreSQL
 - 🌱 Currently learning advanced backend concepts, JWT, authentication flows, and relational database
 - 🔍 Passionate about writing clean, maintainable code and building scalable APIs
