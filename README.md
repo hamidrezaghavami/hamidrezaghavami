@@ -19,8 +19,8 @@
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/hamidrezaghavami/)
-- [LeetCode](https://leetcode.com/u/hamidrghavami/)
-- [Roadmap](https://roadmap.sh/u/hamidrghavami)
+- [LeetCode](https://leetcode.com/u/hamidrezaghavami/)
+- [Roadmap](https://roadmap.sh/u/hamidrezaghavami)
 
 ## 🛠️ Current Projects
 - **UnitConverter** – Simple web page app that convert between different units
