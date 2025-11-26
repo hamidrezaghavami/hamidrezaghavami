@@ -15,7 +15,8 @@
 - **Other:** REST APIs, JSON, Postman
 
 ## 📈 GitHub Stats
-![Hamid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamidrezaghavami&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Hamid's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=hamidrezaghavami&show_icons=true&hide_title=true&count_private=true&hide=prs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamidrezaghavami&show_icons=true&hide_title=true&count_private=true&hide=prs
+)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/hamidrezaghavami/)
