@@ -21,11 +21,6 @@
 - [LinkedIn](https://www.linkedin.com/in/hamidrezaghavami/)
 - [LeetCode](https://leetcode.com/u/hamidrezaghavami/)
 
-## 🛠️ Current Projects
-- **UnitConverter** – Simple web page app that convert between different units
-- **Log Analyzer CLI** – A Node.js CLI tool to parse, analyze, and summarize log files, helping you quickly identify errors, warnings, and key metrics.
-- **Expense Tracker** – a simple expense tracker application to manage your finances. The application should allow users to add, delete, and view their expenses.
-
 ## 💡 What I’m Learning
 - PostgreSQL
 - APIs styles
