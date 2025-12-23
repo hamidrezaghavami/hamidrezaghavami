@@ -3,9 +3,9 @@
 ## 👨‍💻 About Me
 - 🎓 Computer Engineering student at Altinbas University, based in Istanbul, Turkey
 - 💻 Backend developer specializing in Node.js, Express.js, and PostgreSQL
-- 🌱 Currently learning advanced backend concepts, JWT, authentication flows, and relational database
+- 🌱 Currently learning applying API Security Best Practices, and Redis
 - 🔍 Passionate about writing clean, maintainable code and building scalable APIs
-- 🌍 Open to remote collaboration and backend projects worldwide
+- 🌍 Open to collaboration and backend projects worldwide
 - 📝 Sharing projects, experiments, and learning resources on GitHub
 
 ## 🚀 Tech Stack
@@ -22,10 +22,10 @@
 - [LeetCode](https://leetcode.com/u/hamidrezaghavami/)
 
 ## 💡 What I’m Learning
-- PostgreSQL
-- APIs styles
-- Authentication
-- Web Security
+- API Security Best Practices
+- Redis
+- Web Server (Nginx)
+- Data Structures and Algorithms
 
 ## 📬 Contact Me
 Feel free to reach out for collaboration, mentorship, or open-source projects!
