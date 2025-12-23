@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 - 🎓 Computer Engineering student at Altinbas University, based in Istanbul, Turkey
 - 💻 Backend developer specializing in Node.js, Express.js, and PostgreSQL
-- 🌱 Currently learning applying API Security Best Practices, and Redis
+- 🌱 Currently upskilling in API Security implementation
 - 🔍 Passionate about writing clean, maintainable code and building scalable APIs
 - 🌍 Open to collaboration and backend projects worldwide
 - 📝 Sharing projects, experiments, and learning resources on GitHub
