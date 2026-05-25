@@ -22,7 +22,7 @@
 - [LeetCode](https://leetcode.com/u/hamidrezaghavami/)
 
 ## 💡 What I’m Learning
-- API Security Best Practices
+- System Design and Architecture
 - Redis
 - Web Server (Nginx)
 - Data Structures and Algorithms
