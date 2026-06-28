@@ -9,10 +9,9 @@
 - 📝 Sharing projects, experiments, and learning resources on GitHub
 
 ## 🚀 Tech Stack
-- **Backend:** Node.js, Express.js, JWT, Passport.js
-- **Database:** PostgreSQL
-- **Version Control:** Git, GitHub
-- **Other:** REST APIs, JSON, Postman
+- **Backend:** Node.js, Express.js, JWT, OAuth2, Passport.js, Nginx
+- **Database & Caching:** PostgreSQL, Prisma ORM, Redis
+- **Other:** Docker, Git, GitHub, Ubuntu Linux, Postman, Jest, RESTful APIs,
 
 ## 📈 GitHub Stats
 ![Hamid's GitHub Stats](https://github-readme-streak-stats-eight.vercel.app/?user=hamidrezaghavami)
@@ -22,9 +21,9 @@
 - [LeetCode](https://leetcode.com/u/hamidrezaghavami/)
 
 ## 💡 What I’m Learning
+- Kubernetes
+- Kafka
 - System Design and Architecture
-- Redis
-- Web Server (Nginx)
 - Data Structures and Algorithms
 
 ## 📬 Contact Me
