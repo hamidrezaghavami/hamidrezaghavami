@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 - 🎓 Computer Engineering student at Altinbas University, based in Istanbul, Turkey
 - 💻 Backend developer specializing in Node.js, Express.js, and PostgreSQL
-- 🌱 Currently upskilling in API Security implementation
+- 🌱 Currently upskilling in Docker, LXC, and Nginx
 - 🔍 Passionate about writing clean, maintainable code and building scalable APIs
 - 🌍 Open to collaboration and backend projects worldwide
 - 📝 Sharing projects, experiments, and learning resources on GitHub
@@ -17,8 +17,7 @@
 ![Hamid's GitHub Stats](https://github-readme-streak-stats-eight.vercel.app/?user=hamidrezaghavami)
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/hamidrezaghavami/)
-- [LeetCode](https://leetcode.com/u/hamidrezaghavami/)
+- [Portfolio](https://www.linkedin.com/in/hamidrezaghavami/)
 
 ## 💡 What I’m Learning
 - Kubernetes
