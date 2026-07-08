@@ -9,9 +9,9 @@
 - 📝 Sharing projects, experiments, and learning resources on GitHub
 
 ## 🚀 Tech Stack
-- **Backend:** Node.js, Express.js, JWT, OAuth2, Passport.js, Nginx
-- **Database & Caching:** PostgreSQL, Prisma ORM, Redis
-- **Other:** Docker, Git, GitHub, Ubuntu Linux, Postman, Jest, RESTful APIs,
+- **Backend:** Node.js, Express.js, JWT, OAuth2, Passport.js, RESTful APIs.
+- **Database & Caching:** PostgreSQL, Prisma ORM, Redis.
+- **Other:** Docker, Nginx, Ubuntu Linux, Jest, Git, GitHub, Postman.
 
 ## 📈 GitHub Stats
 ![Hamid's GitHub Stats](https://github-readme-streak-stats-eight.vercel.app/?user=hamidrezaghavami)
@@ -20,10 +20,10 @@
 - [Portfolio](https://www.linkedin.com/in/hamidrezaghavami/)
 
 ## 💡 What I’m Learning
-- Kubernetes
-- Kafka
-- System Design and Architecture
 - Data Structures and Algorithms
+- Kafka
+- Real-time data (WebSockets/SSE)
+- System Design and Architecture
 
 ## 📬 Contact Me
 Feel free to reach out for collaboration, mentorship, or open-source projects!
