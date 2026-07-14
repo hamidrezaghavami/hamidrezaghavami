@@ -1,12 +1,12 @@
 # Hi, I'm Hamid 👋
 
 ## 👨‍💻 About Me
-- 🎓 Computer Engineering student at Altinbas University, based in Istanbul, Turkey
-- 💻 Backend developer specializing in Node.js, Express.js, and PostgreSQL
-- 🌱 Currently upskilling in Docker, LXC, and Nginx
-- 🔍 Passionate about writing clean, maintainable code and building scalable APIs
-- 🌍 Open to collaboration and backend projects worldwide
-- 📝 Sharing projects, experiments, and learning resources on GitHub
+- 🎓 Computer Engineering student at Altinbas University, based in Istanbul, Turkey.
+- 💻 Backend developer specializing in Node.js, Express.js, and PostgreSQL.
+- 🌱 Currently upskilling in Docker, Redis, and Nginx.
+- 🔍 Passionate about writing clean, maintainable code and building scalable APIs.
+- 🌍 Open to collaboration and backend projects worldwide.
+- 📝 Sharing projects, experiments, and learning resources on GitHub.
 
 ## 🚀 Tech Stack
 - **Backend:** Node.js, Express.js, JWT, OAuth2, Passport.js, RESTful APIs.
@@ -22,7 +22,7 @@
 ## 💡 What I’m Learning
 - Data Structures and Algorithms
 - Kafka
-- Real-time data (WebSockets/SSE)
+- Real-time data
 - System Design and Architecture
 
 ## 📬 Contact Me
