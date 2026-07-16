@@ -17,7 +17,7 @@
 ![Hamid's GitHub Stats](https://github-readme-streak-stats-eight.vercel.app/?user=hamidrezaghavami)
 
 ## 🔗 Connect with Me
-- [Portfolio](https://www.linkedin.com/in/hamidrezaghavami/)
+- [Portfolio](https://hamidrezaghavami.github.io/portfolio/)
 
 ## 💡 What I’m Learning
 - Data Structures and Algorithms
