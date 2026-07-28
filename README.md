@@ -21,9 +21,9 @@
 
 ## 💡 What I’m Learning
 - Data Structures and Algorithms
-- Kafka
-- Real-time data
+- Architectural Patterns
 - System Design and Architecture
+- Scaling Databases
 
 ## 📬 Contact Me
 Feel free to reach out for collaboration, mentorship, or open-source projects!
