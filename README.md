@@ -1,29 +1,21 @@
-# Hi, I'm Hamid 👋
+# Hamid Reza Ghavami
 
-## 👨‍💻 About Me
-- 🎓 Computer Engineering student at Altinbas University, based in Istanbul, Turkey.
-- 💻 Backend developer specializing in Node.js, Express.js, and PostgreSQL.
-- 🌱 Currently upskilling in Docker, Redis, and Nginx.
-- 🔍 Passionate about writing clean, maintainable code and building scalable APIs.
-- 🌍 Open to collaboration and backend projects worldwide.
-- 📝 Sharing projects, experiments, and learning resources on GitHub.
+Backend engineer who likes to learn more every day. I love watching movies and asking myself how to turn fiction ideas into reality.
 
-## 🚀 Tech Stack
-- **Backend:** Node.js, Express.js, JWT, OAuth2, Passport.js, RESTful APIs.
-- **Database & Caching:** PostgreSQL, Prisma ORM, Redis.
-- **Other:** Docker, Nginx, Ubuntu Linux, Jest, Git, GitHub, Postman.
+[Portfolio & Case Studies ↗](https://hamidrezaghavami.github.io/portfolio/)
 
-## 📈 GitHub Stats
-![Hamid's GitHub Stats](https://github-readme-streak-stats-eight.vercel.app/?user=hamidrezaghavami)
+---
 
-## 🔗 Connect with Me
-- [Portfolio](https://hamidrezaghavami.github.io/portfolio/)
+### What I'm up to
 
-## 💡 What I’m Learning
-- Data Structures and Algorithms
-- Architectural Patterns
-- System Design and Architecture
-- Scaling Databases
+- Writing low-level backend tools, experimenting with C++ Node-API bindings, and breaking database concurrency limits.
+- Contributing to open-source—opening issues, filing PRs, and improving runtime tooling and core docs.
+- Keeping personal codebases clean, tested, and benchmarked.
 
-## 📬 Contact Me
-Feel free to reach out for collaboration, mentorship, or open-source projects!
+---
+
+### The Vibe
+
+- Based in Istanbul.
+- Prefer raw SQL over heavy ORM layers and deterministic tests over vibes.
+- Like Marvel Jesus, waiting for an internship...
