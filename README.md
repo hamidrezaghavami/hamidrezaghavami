@@ -2,13 +2,13 @@
 
 Backend engineer who likes to learn more every day. I love watching movies and asking myself how to turn fiction ideas into reality.
 
-[Portfolio & Case Studies ↗](https://hamidrezaghavami.github.io/portfolio/)
+[Portfolio ↗](https://hamidrezaghavami.github.io/portfolio/)
 
 ---
 
 ### What I'm up to
 
-- Writing low-level backend tools, experimenting with C++ Node-API bindings, and breaking database concurrency limits.
+- Writing low-level backend tools, experimenting with Node.js and PostgreSQL, and breaking database concurrency limits.
 - Contributing to open-source—opening issues, filing PRs, and improving runtime tooling and core docs.
 - Keeping personal codebases clean, tested, and benchmarked.
 
@@ -16,6 +16,6 @@ Backend engineer who likes to learn more every day. I love watching movies and a
 
 ### The Vibe
 
-- Based in Istanbul.
+- Living in the JavaScript Cinematic Universe without an umbrella.
 - Prefer raw SQL over heavy ORM layers and deterministic tests over vibes.
 - Like Marvel Jesus, waiting for an internship...
