@@ -8,7 +8,7 @@ Backend engineer who likes to learn more every day. I love watching movies and a
 
 ### What I'm up to
 
-- Writing low-level backend tools, experimenting with Node.js and PostgreSQL, and breaking database concurrency limits.
+- Writing low-level backend tools, experimenting with Node.js and code reviews.
 - Contributing to open-source—opening issues, filing PRs, and improving runtime tooling and core docs.
 - Keeping personal codebases clean, tested, and benchmarked.
 
@@ -17,5 +17,5 @@ Backend engineer who likes to learn more every day. I love watching movies and a
 ### The Vibe
 
 - Living in the JavaScript Cinematic Universe without an umbrella.
-- Prefer raw SQL over heavy ORM layers and deterministic tests over vibes.
-- Like Marvel Jesus, waiting for an internship...
+- Node.js internals > databases. Deterministic tests > vibes.
+- Approaching chaotic systems with total composure—building robust architecture and actively looking for my next backend engineering challenge.
