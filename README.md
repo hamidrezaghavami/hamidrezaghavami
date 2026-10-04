@@ -2,7 +2,7 @@
 
 Backend engineer who likes to learn more every day. I love watching movies and asking myself how to turn fiction ideas into reality.
 
-[Portfolio ↗](https://hamidrezaghavami.github.io/portfolio/)
+[Portfolio ↗](https://hamidrezaghavami.github.io)
 
 ---
 
